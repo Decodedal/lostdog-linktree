@@ -104,7 +104,7 @@ li a:hover {
 }
 
 button {
-    border: 3px solid white;
+    border: 2px solid white;
     padding: .5em;
     border-radius: 20px;
     transition: all .4s;
@@ -128,4 +128,12 @@ h1 {
 
 p {
    text-shadow: 2px 4px 3px rgba(0, 0, 0, 0.3);
+}
+
+.music-player{
+    background-color: aliceblue;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
