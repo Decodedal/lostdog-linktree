@@ -59,12 +59,12 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: "Oxanium", sans-serif;
+    font-family: "open sans", sans-serif;
     min-height: 100vh;
     color: white;
     font-size: 1.5rem;
-    background: rgb(0, 0, 0);
-    background: linear-gradient(0deg, rgba(0, 0, 0, 1) 19%, rgba(133, 22, 22, 1) 100%);
+    background: #111111;
+    /* background: linear-gradient(0deg, rgba(0, 0, 0, 1) 19%, rgba(133, 22, 22, 1) 100%); */
     /* This ensures the body takes up at least the full viewport height */
 }
 
